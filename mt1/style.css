@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+#footer{
+    text-align: center;
+}
+
+.internacional{
+    
+    color:blue;
+   
+}
+.card {
+    display: grid;
+    margin: 0px 20px 20px 20px;
+    pading: 0 0 20px 0px
+}
+
+.container{
+    display: flex;
+    align-content: center;
+    
+    
+}

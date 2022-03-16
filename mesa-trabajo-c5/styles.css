@@ -74,3 +74,8 @@ poder resolver el ejercicio */
 .c{
   color: rgb(230, 230, 230);
 }
+
+main {
+  display: flex;
+
+}
